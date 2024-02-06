@@ -528,7 +528,7 @@ img {
 .social-icon-list {
   display: flex;
   justify-content: center;
-  gap: 26px;
+  gap: 16px;
   padding-bottom: 32px;
 }
 
